@@ -4,7 +4,7 @@ public class Mgr06 {
     private Mgr06() {
 
     }
-    private static Mgr06 INSTANCE = null;
+    private static volatile Mgr06 INSTANCE = null;
 
     public static Mgr06 getInstance() {
         if (INSTANCE == null) {
