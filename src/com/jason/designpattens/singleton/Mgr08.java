@@ -1,4 +1,4 @@
-package com.jason.designpattens;
+package com.jason.designpattens.singleton;
 
 public enum Mgr08 {
     INSTANCE;

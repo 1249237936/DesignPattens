@@ -1,4 +1,4 @@
-package com.jason.strategy;
+package com.jason.designpattens.strategy;
 
 public class Cat implements Comparable<Cat> {
     int weight, height;

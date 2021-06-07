@@ -1,4 +1,4 @@
-package com.jason.strategy;
+package com.jason.designpattens.strategy;
 
 public class CatWeightComparator implements Comparator<Cat>{
     @Override

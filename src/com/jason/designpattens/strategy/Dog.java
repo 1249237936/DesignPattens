@@ -1,4 +1,4 @@
-package com.jason.strategy;
+package com.jason.designpattens.strategy;
 
 public class Dog implements Comparable<Dog>{
     int food;

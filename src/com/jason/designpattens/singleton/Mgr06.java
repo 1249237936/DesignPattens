@@ -1,4 +1,4 @@
-package com.jason.designpattens;
+package com.jason.designpattens.singleton;
 
 public class Mgr06 {
     private Mgr06() {
