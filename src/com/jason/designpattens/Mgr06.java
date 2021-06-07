@@ -1,4 +1,4 @@
-package com.json.designpattens;
+package com.jason.designpattens;
 
 public class Mgr06 {
     private Mgr06() {

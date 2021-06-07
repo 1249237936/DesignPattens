@@ -1,4 +1,4 @@
-package com.json.designpattens;
+package com.jason.designpattens;
 
 public enum Mgr08 {
     INSTANCE;
